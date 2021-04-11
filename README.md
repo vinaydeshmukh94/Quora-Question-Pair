@@ -8,3 +8,6 @@ Random model : - loss: 0.88
 Logistic Regression: 0.52
 SVM_with l1 regularization: 0.489
 GBDT : - 0.357
+
+We can improve the results with Word2vec model convert question in to directly vector.
+
