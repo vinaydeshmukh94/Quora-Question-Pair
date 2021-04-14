@@ -3,6 +3,10 @@
 2. Feature Engineering: 
 Created 11 features like length of question 1, length of question2, number of comman words, etc.
 Created 15 advance feature from given 2 test questions.
+
+
+
+
 Models: 
 Random model : - loss: 0.88
 Logistic Regression: 0.52
