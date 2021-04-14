@@ -1,5 +1,5 @@
 # Quora-Question-Pair
-1. Data set used is avilable on kaggle
+1. Data set used is avilable on kaggle : https://www.kaggle.com/c/quora-question-pairs/data
 2. Feature Engineering: 
 Created 11 features like length of question 1, length of question2, number of comman words, etc.
 Created 15 advance feature from given 2 test questions.
