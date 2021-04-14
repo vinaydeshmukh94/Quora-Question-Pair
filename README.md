@@ -8,10 +8,14 @@ Created 15 advance feature from given 2 test questions.
 
 
 Models: 
+
 Random model : - loss: 0.88
+
 Logistic Regression: 0.52
+
 SVM_with l1 regularization: 0.489
+
 GBDT : - 0.357
 
-We can improve the results with Word2vec model convert question in to directly vector.
+We can improve the results with Word2vec model convert question in to directly vector using word2vec or BOW(sparce vectors).
 
